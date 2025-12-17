@@ -1,1 +1,1 @@
-# atividade_03_fun-oes_P2_front
+# frontend-funcoes-javascript
